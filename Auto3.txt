@@ -2,3 +2,11 @@ This is my Auto3 changes
 
 This is my first commit
 
+This is my Auto3 changes2
+This is my first commit2
+This is my Auto3 changes3
+
+This is my first commit3
+
+
+
