@@ -1,11 +1,3 @@
 This is my Auto1 changes
 
-This is my first commit
-
-This is my second commit
-
-<<<<<<< HEAD
-this is commit from branch master 1
-=======
-this is commit from DEV1 TO ADDRESS ISSUE
->>>>>>> c2a2c98e942f17dff78a9411eef9043b011b3255
+This is my first commit this is commit from dev2 to auto1
