@@ -4,4 +4,4 @@ This is my first commit
 
 This is my second commit
 
-this is commit from branch master 
+this is commit from DEV1 TO ADDRESS ISSUE
