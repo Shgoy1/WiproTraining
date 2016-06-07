@@ -1,3 +1,7 @@
 This is my Auto1 changes
 
 This is my first commit
+
+This is my second commit
+
+this is commit from branch master 1
